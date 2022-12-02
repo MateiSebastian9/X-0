@@ -1,0 +1,5 @@
+C:\Users\sebas\OneDrive\Documents\GitHub\Tick Tack Toe\XO.exe
+C:\Users\sebas\OneDrive\Documents\GitHub\Tick Tack Toe\XO.dll
+C:\Users\sebas\OneDrive\Documents\GitHub\Tick Tack Toe\XO.deps.json
+C:\Users\sebas\OneDrive\Documents\GitHub\Tick Tack Toe\XO.runtimeconfig.json
+C:\Users\sebas\OneDrive\Documents\GitHub\Tick Tack Toe\XO.pdb
